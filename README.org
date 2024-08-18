@@ -1,0 +1,24 @@
+#+TITLE: Evermacs : votre compagnon Emacs pour débuter
+
+* Introduction
+** Qu'est-ce que Evermacs ?
+Une distribution Emacs simplifiée et configurée pour une prise en main rapide.
+Idéale pour les débutants qui souhaitent découvrir l'univers d'Emacs sans se perdre dans les configurations complexes.
+
+** Pourquoi utiliser Evermacs ?
+Interface utilisateur épurée.
+Distribution prête à l'emploi pour les tâches courantes.
+Configuration modulaire pour faciliter la personnalisation.
+
+* Installation
+_Pré-requis_ :
+Système d'exploitation supporté : Windows 11.
+Emacs 29.4 installé.
+
+_Installation_ :
+Télécharger le contenu du repertoire dans le dossier "~/emacs.d".
+
+* Ressources
+Pour plus d'information, rendez-vous sur le site officiel d'[[www.evermacs.fr][Evermacs]] !
+
+* [[https://www.gnu.org/licenses/gpl-3.0.en.html#license-text][Licence GPLv3]]
